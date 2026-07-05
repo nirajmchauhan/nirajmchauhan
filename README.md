@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Niraj 👋
 
-<!--
-**nirajmchauhan/nirajmchauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering leader working across web platforms, AI-enabled delivery, and developer productivity.
 
-Here are some ideas to get you started:
+Currently, I'm exploring how AI agents can safely support software teams — not by replacing engineers, but by improving the harness around planning, coding, testing, and review.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I care about
+- Practical AI in engineering teams
+- Web platform architecture
+- Developer experience
+- Clean delivery systems
+- Open-source and learning in public
+
+### Recent open source
+- **[Activepieces](https://github.com/activepieces/activepieces)** — contributed OIDC / IAM-role (keyless) authentication for the AWS Bedrock & Secrets Manager pieces ([#13945](https://github.com/activepieces/activepieces/pull/13945))
